@@ -24,6 +24,6 @@
     - [x]  아쉬운 점
     - [x]  느낀 점
     - [x]  어려웠던 점
-![image](https://github.com/scvdx0/first-repository/assets/169222852/a7ba51ce-7d9c-4a5d-87b2-cd70f57334bf)
+
 
 </aside>
