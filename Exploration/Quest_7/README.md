@@ -39,3 +39,7 @@
 리뷰어 : 오래 고민하시고, 회고도 명확하게 작성하였습니다.
 
 ![](1.png)
+![3](https://github.com/scvdx0/first-repository/assets/169222852/afe538e0-0cd9-4d80-9d73-6d991d5634aa)
+![2](https://github.com/scvdx0/first-repository/assets/169222852/7169ae7e-e250-435b-af4f-831366f4c72f)
+![1](https://github.com/scvdx0/first-repository/assets/169222852/bef49fe1-0c2a-4aa9-8fbe-1943adcce7c6)
+
